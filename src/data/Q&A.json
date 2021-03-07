@@ -1,52 +1,142 @@
 {
-    "1": "Explain the difference between join and relate",
-    "2": "Which programming languages are the most valuable for GIS specialists to know",
-    "3": "Describe your favorite mapping project",
-    "4": "What was the last project you worked on",
-    "5": "What was the last project you worked on",
-    "6": "What are the main components of GIS",
-    "7": "Explain GIS commands",
-    "8": "What is a linked display",
-    "9": "Why are geo-statistics important",
-    "10": "Look at this online map. What about it works? What could you improve",
-    "11": "What skills do you think are most valuable for a GIS specialist",
+    "1": {
+        "question": "Explain the difference between join and relate",
+        "example": ""
+    },
+    "2": {
+        "question": "Which programming languages are the most valuable for GIS specialists to know",
+        "example": ""
+    },
+    "3": {
+        "question": "Describe your favorite mapping project",
+        "example": ""
+    },
+    "4": {
+        "question": "What was the last project you worked on",
+        "example": ""
+    },
+    "5": {
+        "question": "What was the last project you worked on",
+        "example": ""
+    },
+    "6": {
+        "question": "What are the main components of GIS",
+        "example": ""
+    },
+    "7": {
+        "question": "Explain GIS commands",
+        "example": ""
+    },
+    "8": {
+        "question": "What is a linked display",
+        "example": ""
+    },
+    "9": {
+        "question": "Why are geo-statistics important",
+        "example": ""
+    },
+    "10": {
+        "question": "Look at this online map. What about it works? What could you improve",
+        "example": ""
+    },
+    "11": {
+        "question": "What skills do you think are most valuable for a GIS specialist",
+        "example": ""
+    },
     "12": {
         "question": "GIS specialists should have a variety of hard and soft skills to do their work well. The hiring manager might ask you which skills you deem most important to see what you value in your work and if those skills align with the companys goals.",
-        "Example": "GIS specialists should have a variety of skills, but the most important ones, in my opinion, are patience, technical problem-solving and communication. Patience is important because it takes time to acquire and review the data before building the map. Technical problem-solving because the information might be gathered or represented using different programs and communication because explaining GIS to non-GIS colleagues is necessary."
+        "example": "GIS specialists should have a variety of skills, but the most important ones, in my opinion, are patience, technical problem-solving and communication. Patience is important because it takes time to acquire and review the data before building the map. Technical problem-solving because the information might be gathered or represented using different programs and communication because explaining GIS to non-GIS colleagues is necessary."
     },
     "13": {
         "question": "Explain the difference between geo-coding and geo-referencing.",
-        "Example": "While geo-coding and geo-referencing are similar, they have a key distinction. Geocoding is the process of taking written data, like the name of a place or an address, and assigning coordinates on a map to that information. Geo-referencing is the process of taking a satellite image and assigning map coordinates to it. The result is the same (the coordinate assignment), but the process of arriving at that result differs."
+        "example": "While geo-coding and geo-referencing are similar, they have a key distinction. Geocoding is the process of taking written data, like the name of a place or an address, and assigning coordinates on a map to that information. Geo-referencing is the process of taking a satellite image and assigning map coordinates to it. The result is the same (the coordinate assignment), but the process of arriving at that result differs."
     },
     "14": {
         "question": "How does GPS support GIS?",
-        "Example": "GPS and GIS are interrelated. GPS collects data from satellites to help people determine their specific location. GIS uses the information collected via GPS and organizes it in a functional, understandable manner."
+        "example": "GPS and GIS are interrelated. GPS collects data from satellites to help people determine their specific location. GIS uses the information collected via GPS and organizes it in a functional, understandable manner."
     },
     "15": {
         "question": "Explain what GIS is to a fifth-grader.",
-        "Example": "GIS is a complex field and can take some time to understand. GIS takes geographical data, like coordinates and addresses, and finds patterns and trends within that data. GIS specialists use those trends to create visualizations and find solutions to problems for companies and businesses."
+        "example": "GIS is a complex field and can take some time to understand. GIS takes geographical data, like coordinates and addresses, and finds patterns and trends within that data. GIS specialists use those trends to create visualizations and find solutions to problems for companies and businesses."
     },
     "16": {
         "question": "Do you feel prepared to take on this role? Why?",
-        "Example": "I absolutely feel prepared for this role. Ive been working in GIS for the last five years and regularly attend industry conferences to stay informed on updates and new technologies. I feel ready to manage a team and apply my skills to both GIS and management."
+        "example": "I absolutely feel prepared for this role. Ive been working in GIS for the last five years and regularly attend industry conferences to stay informed on updates and new technologies. I feel ready to manage a team and apply my skills to both GIS and management."
     },
-    "17": "Tell me about a new skill you taught yourself (need not be GIS). How did you teach yourself?",
-    "18": "What’s your favorite programming language? Why?",
-    "19": "What’s the topic of the last GIS presentation you gave for work or school? How did the presentation go? How did you prepare for it? What would you have changed, looking back on it?",
-    "20": "What book or website do you reference the most in doing your GIS work/homework? What sort of information are you typically seeking?",
-    "21": "What are three things you might do if you got stuck while working on a school or professional project?",
-    "22": "What can you tell me about open source? How do you feel about it? Have you used it? How? Why?",
-    "23": "What can you tell me about open data? Have you used it? How? Why?",
-    "24": "What do you know about OpenStreetMap? Have you contributed? Why or why not?",
-    "25": "Do you use a GPS in your car/bike or on foot? Why or why not?Q:",
-    "26": "Tell me about a map or mapping project you did outside of work or school.",
-    "27": "What’s the next thing you want to learn about in GIS/geospatial technology? Why?",
-    "28": "What first got you interested in geospatial technology?",
-    "29": "Who was most influential in spiking your interest in GIS?",
-    "30": "If you are the GIS person in the backroom, why do you think what you do should be in/on the ________ (boardroom/sales team/training team/etc.)?",
-    "31": "What do you like best about your current/last job/GIS courses at school?",
-    "32": "Give me your elevator pitch for why this company needs your GIS skills.",
-    "33": "Are programming skills important in GIS? Why/why not?",
-    "34": "Will the GIS profession go the way of the office secretary/typist?",
-    "35": "Does GIS belong in IT or elsewhere (planning, engineering, etc.)?"
+    "17": {
+        "question": "Tell me about a new skill you taught yourself (need not be GIS). How did you teach yourself?",
+        "example": ""
+    },
+    "18": {
+        "question": "What’s your favorite programming language? Why?",
+        "example": ""
+    },
+    "19": {
+        "question": "What’s the topic of the last GIS presentation you gave for work or school? How did the presentation go? How did you prepare for it? What would you have changed, looking back on it?",
+        "example": ""
+    },
+    "20": {
+        "question": "What book or website do you reference the most in doing your GIS work/homework? What sort of information are you typically seeking?",
+        "example": ""
+    },
+    "21": {
+        "question": "What are three things you might do if you got stuck while working on a school or professional project?",
+        "example": ""
+    },
+    "22": {
+        "question": "What can you tell me about open source? How do you feel about it? Have you used it? How? Why?",
+        "example": ""
+    },
+    "23": {
+        "question": "What can you tell me about open data? Have you used it? How? Why?",
+        "example": ""
+    },
+    "24": {
+        "question": "What do you know about OpenStreetMap? Have you contributed? Why or why not?",
+        "example": ""
+    },
+    "25": {
+        "question": "Do you use a GPS in your car/bike or on foot? Why or why not?Q:",
+        "example": ""
+    },
+    "26": {
+        "question": "Tell me about a map or mapping project you did outside of work or school.",
+        "example": ""
+    },
+    "27": {
+        "question": "What’s the next thing you want to learn about in GIS/geospatial technology? Why?",
+        "example": ""
+    },
+    "28": {
+        "question": "What first got you interested in geospatial technology?",
+        "example": ""
+    },
+    "29": {
+        "question": "Who was most influential in spiking your interest in GIS?",
+        "example": ""
+    },
+    "30": {
+        "question": "If you are the GIS person in the backroom, why do you think what you do should be in/on the ________ (boardroom/sales team/training team/etc.)?",
+        "example": ""
+    },
+    "31": {
+        "question": "What do you like best about your current/last job/GIS courses at school?",
+        "example": ""
+    },
+    "32": {
+        "question": "Give me your elevator pitch for why this company needs your GIS skills.",
+        "example": ""
+    },
+    "33": {
+        "question": "Are programming skills important in GIS? Why/why not?",
+        "example": ""
+    },
+    "34": {
+        "question": "Will the GIS profession go the way of the office secretary/typist?",
+        "example": ""
+    },
+    "35": {
+        "question": "Does GIS belong in IT or elsewhere (planning, engineering, etc.)?",
+        "example": ""
+    }
 }
